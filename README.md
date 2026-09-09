@@ -7,6 +7,7 @@
 ## Photo Gallery
 
 ## Separate page for hosts
+## [test](test.md)
 
 ## Code of Conduct
 
