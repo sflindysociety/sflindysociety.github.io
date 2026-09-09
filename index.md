@@ -9,7 +9,9 @@ Welcome to SF Lindy Society's main page! Here we accumulate different events fro
 
 ## Photo Gallery
 
+<div style="margin: 0 auto">
 ![Dancers having fun](images/swing-aug26-24.jpg)
+</div>
 
 ## Separate page for hosts
 
