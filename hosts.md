@@ -1,2 +1,4 @@
-<div style='text-align:center'> [Home](index.md)    [Meet your hosts](hosts.md)    [FAQ](faw.md)
+<div style='text-align:center'> <a href="index.md">Home</a>    
+                                <a href="hosts.md">Meet your hosts</a> 
+                                <a href="faq.md">FAQ</a> 
 </div>
