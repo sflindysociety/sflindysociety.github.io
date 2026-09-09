@@ -7,6 +7,8 @@
 
 ## Photo Gallery
 
+![Dancers having fun](images/swing-aug26-24.jpg)
+
 ## Separate page for hosts
 ## [test](test.md)
 
