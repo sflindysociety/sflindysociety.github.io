@@ -2,7 +2,8 @@
 # SF Lindy Society
 ### DecoDance on Polk St every Thursday night
 
-## Calendar
+## Event Calendar
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&mode=WEEK&showTz=0&showPrint=0&showTabs=0&src=c2ZsaW5keXNvY2lldHlAZ21haWwuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23009688&color=%230b8043" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Photo Gallery
 
@@ -14,7 +15,7 @@
 
 
 ### FAQ
-#### What should I wear? 
+#### What should I wear?
 - Wear comfortable clothing and close-toed shoes
 		    
 #### What if I’m clumsy?
