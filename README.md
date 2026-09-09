@@ -1,7 +1,15 @@
-# sflindysociety.github.io
-SF Lindy Society's Official Website
+
+# SF Lindy Society
+### DecoDance on Polk St every Thursday night
+
+## Calendar
+
+## Photo Gallery
+
+## Separate page for hosts
 
 ## Code of Conduct
+
 
 
 ### FAQ
