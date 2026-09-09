@@ -2,9 +2,9 @@
 Welcome to SF Lindy Society's main page! Here we accumulate different events from across the city including our very own Beginner Dance Lesson at DecoDance bar on Polk st. every *THURSDAY* from 7-8pm with social dancing from 8-10pm. 
 </div>
 
-<div style='text-align:center'> <a href="index.md">Home</a>    
-                                <a href="hosts.md">Meet your hosts</a> 
-                                <a href="faq.md">FAQ</a> 
+<div style='text-align:center'> <a href="sflindysociety.github.io/index.md">Home</a>    
+                                <a href="sflindysociety.github.io/hosts.md">Meet your hosts</a> 
+                                <a href="sflindysociety.github.io/faq.md">FAQ</a> 
 </div>
 
 
