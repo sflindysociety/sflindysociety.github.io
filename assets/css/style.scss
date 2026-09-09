@@ -6,3 +6,10 @@
 a#forkme_banner {
     display: none;
 }
+
+#intro-box {
+    border: 5px solid #4a0000; 
+    border-radius: 12px; 
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
+    overflow: hidden;
+}
