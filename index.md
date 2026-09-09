@@ -1,4 +1,6 @@
-
+<div style="border: 2px solid #e0e0e0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); overflow: hidden;">
+Welcome to SF Lindy Society's main page! Here we accumulate different events from across the city including our very own Beginner Dance Lesson at DecoDance bar on Polk st. every *WEDNESDAY* from 7-8pm with social dancing from 8-10pm. 
+</div>
 
 ## Event Calendar
 <div>
@@ -10,13 +12,10 @@
 ![Dancers having fun](images/swing-aug26-24.jpg)
 
 ## Separate page for hosts
-## [test](test.md)
-
-## Code of Conduct
 
 
 
-### FAQ
+## FAQ
 #### What should I wear?
 - Wear comfortable clothing and close-toed shoes
 		    
@@ -37,3 +36,5 @@
 		    
 ####  What time is the lesson? 
 - 7-8pm on Thursdays at the fabulous DecoDance bar on Polk st. Social dancing afterwards until 10pm!
+### Code of Conduct
+Be respectful of others! 
