@@ -1,3 +1,5 @@
+{% include nav.html %}
+
 ## FAQ
 #### What should I wear?
 - Wear comfortable clothing and close-toed shoes
