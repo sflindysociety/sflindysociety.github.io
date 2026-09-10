@@ -16,6 +16,7 @@ Welcome to SF Lindy Society's main page! Here we accumulate different events fro
 ## Photo Gallery
 
 <div style="text-align: center">
+    Swingin'
 	<img src="images/swing-aug26-24.jpg" />
 </div>
 
