@@ -25,6 +25,7 @@ gem "jekyll-github-metadata"
 gem "jekyll-paginate"
 
 gem "jekyll-readme-index" 
-gem "jekyll-titles-from-headings"
-gem "jekyll-relative-links"
 
+gem "jekyll-titles-from-headings"
+
+gem "jekyll-relative-links"
