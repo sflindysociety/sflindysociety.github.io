@@ -16,6 +16,7 @@ Welcome to SF Lindy Society's main page! Here we accumulate different events fro
 	<img src="images/swing-aug26-24.jpg" />
 </div>
 
+## Check out some our favorite hits :)
 <div>
     <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2e30u0GbmbhaiuSdNSpkmq?utm_source=generator&si=a81dceb4348842f6" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
