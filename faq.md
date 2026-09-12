@@ -1,3 +1,8 @@
+---
+layout: default
+title: My Page
+---
+
 {% include nav.html %}
 
 ## FAQ
