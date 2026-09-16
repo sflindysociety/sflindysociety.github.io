@@ -29,3 +29,5 @@ gem "jekyll-readme-index"
 gem "jekyll-titles-from-headings"
 
 gem "jekyll-relative-links"
+
+gem 'bootstrap', '~> 5.2.3'
