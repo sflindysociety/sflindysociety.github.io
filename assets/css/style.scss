@@ -1,11 +1,103 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/* CSS Reset */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* Webpage size */
+div.shell {
+    display: block;
+    width: 850px;
+    margin: 0 auto;
+  }
+
+header h1 {
+    background-color: #7c334f;
+    font-size: 2.5em;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: uppercase;
+    color: #ece4d8;
+    text-align: center;
+    line-height:1;
+    padding: 14px 20px 0;
+    margin-top: 25px;
+  }
+  
+header h2 {
+    background-color: #7c334f;
+    font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
+    color: #e69b95;
+    padding-bottom: 14px;
+    margin-top: -10px;
+    text-align: center;
+    border-bottom: 4mm ridge rgba(204, 213, 24, 0.6);
+  }
 
 a#forkme_banner {
     display: none;
 }
+
+/* Content based headers */
+#main_content > .header-level-1:first-child,
+#main_content > .header-level-2:first-child,
+#main_content > .header-level-3:first-child,
+#main_content > .header-level-4:first-child,
+#main_content > .header-level-5:first-child,
+#main_content > .header-level-6:first-child {
+  margin-top: 0;
+}
+
+.header-level-1 {
+  font-size: 1.85em;
+  border-bottom: .2em double #d3ccc1;
+  color: #7c334f;
+  text-align: center;
+  font-style: italic;
+  margin: 1.1em 0 .38em;
+  line-height: 1.2;
+  padding-bottom: 10px;
+  border-radius: 0.5rem;
+}
+
+.header-level-2 {
+  font-size: 1.58em;
+  color: #7c334f;
+  margin: .95em 0 .5em;
+  line-height: 1.2;
+  padding-bottom: 10px;
+  border-radius: 0.5rem;
+}
+
+/* footer */
+
+footer p {
+    font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+    font-weight: bold;
+    font-size: .8em;
+    color: #8b786f;
+  }
+
+/* --- Customized CSS below --- */
 
 #intro-box {
     border: 5px solid #4a0000; 
@@ -13,12 +105,32 @@ a#forkme_banner {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
     overflow: hidden;
     padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 0.5rem;
 }
 
-.site-nav {
+.navbar {
+    border-radius: 0.5rem;
+    font-weight: bold;
+    margin-bottom: 50px;
+    
+}
+
+.navbar-nav {
+    font-size: 18px;
+}
+
+.container #photoCarousel .carousel-item img{
+    height: 10pc;
+    border: 5px double #4a0000; 
+    border-radius: 12px; 
+    margin: .95em 0 .5em;
+    border-radius: 1.5rem;
+}
+
+
+
+.header-level-1 {
     text-align: center;
 }
 
-.site-nav a {
-    margin: 0 10px;
-}
