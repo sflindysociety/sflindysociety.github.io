@@ -9,7 +9,7 @@ Welcome to SF Lindy Society's main page! Here we accumulate different events fro
 
 ## Event Calendar
 <div>
-    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&mode=WEEK&showTz=0&showPrint=0&showTabs=0&src=c2ZsaW5keXNvY2lldHlAZ21haWwuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23009688&color=%230b8043" style="border: 2px solid #e0e0e0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); overflow: hidden; padding: 10px" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&mode=MONTH&showTabs=0&showDate=0&showTz=0&src=c2ZsaW5keXNvY2lldHlAZ21haWwuY29t&color=%23009688" style="border: 2px solid #e0e0e0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); overflow: hidden; padding: 10px" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ## Photo Gallery
