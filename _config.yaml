@@ -12,5 +12,6 @@ plugins:
   - jekyll-readme-index
   - jekyll-titles-from-headings
   - jekyll-relative-links
+  - jekyll-seo-tag
 title: SF Lindy Society
 description: Swing dancing every Thursday night in the heart of San Francisco
